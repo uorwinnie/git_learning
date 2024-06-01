@@ -8,3 +8,5 @@ print('''
    |/     |/
    1------2  ''')
 print('Name','Is','John',sep='**')
+
+print("testing")
