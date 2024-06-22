@@ -1,3 +1,2 @@
 Hello, just testing.
 second testing
-third testing
