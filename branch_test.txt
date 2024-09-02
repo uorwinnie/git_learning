@@ -4,5 +4,6 @@ in master second line
 third
 alllllllll
 blah blah
+seven
 
 seven in master
